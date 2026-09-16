@@ -416,6 +416,7 @@ See also [Active Directory](#active-directory) and [ADFS](#adfs) below.
 - [How-To Geek - 10 Ways to Generate a Random Password from the Linux Command Line](https://www.howtogeek.com/howto/30184/10-ways-to-generate-a-random-password-from-the-command-line/)
 - [Vitux - 8 Ways to Generate a Random Password on Linux Shell](https://vitux.com/generation-of-a-random-password-on-linux-shell/)
 - [SS64 - Password security and a comparison of Password Generators](https://ss64.com/docs/security.html)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 # Books
 
